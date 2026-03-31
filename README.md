@@ -1,16 +1,16 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Geralt of Rivia!
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I hunt monsters for coin and I like cold baths in the gardens of Toussaint.
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Monster Hunting](https://witcher.fandom.com/wiki/The_Witcher_3:_Wild_Hunt_-_Guide_to_Monster_Hunting)
+![Potion Making](https://witcher.fandom.com/wiki/The_Witcher_potion_preparation)
+![Teaching](https://the-witcher-fanon.fandom.com/wiki/Trial_of_the_Grasses)
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
+![Yennefer](https://witcher.fandom.com/wiki/Yennefer_of_Vengerberg)
+![Bathtubs](https://assetsio.gnwcdn.com/bathtubs-geralt.jpg?width=690&quality=85&format=jpg&auto=webp)
+![Swords](https://witcher.fandom.com/wiki/The_Witcher_3_steel_swords)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![Witcher Wiki](https://witcher.fandom.com/)
+[![The Witcher 3](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
 
-_"Your sample quote here!"_
+_"Evil Is Evil. Lesser, Greater, Middling, Makes No Difference. The Degree Is Arbitrary, The Definitions Blurred. If I'm To Choose Between One Evil And Another, I'd Rather Not Choose At All.”_
